@@ -1,0 +1,10 @@
+{
+  "realm": "FedRealm",
+  "auth-server-url": "http://localhost:18080/auth",
+  "ssl-required": "external",
+  "resource": "medicare-app",
+  "credentials": {
+    "secret": "e1b8937a-6476-4d06-8579-3dcc56261c4c"
+  },
+  "policy-enforcer": {}
+}
